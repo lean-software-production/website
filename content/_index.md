@@ -2,9 +2,9 @@
 title: "You See the Potential. Now Make It Deliver."
 ---
 
-For engineering leaders tired of correcting plausible AI output, defending code quality, and overwhelmed by the volume of code to review.
+For engineering leaders tired of correcting plausible AI output, defending code quality, and reviewing more code than their team can safely ship.
 
-This workshop helps your team turn AI from an impressive demo into a useful part of your engineering system.
+This workshop helps your team use AI to improve delivery flow, not just generate more code.
 
 ## The pain
 
@@ -15,14 +15,16 @@ This workshop helps your team turn AI from an impressive demo into a useful part
 
 ## What you gain
 
-- **A practical model for how AI actually works.** Move past magic-beans thinking and understand what these tools are good at, where they are blind, and how to use them deliberately.
+- **A practical model for how AI actually works.** Move past the idea that AI is magic. Learn how LLMs work, what they are good at, where they are blind, and how to use them deliberately.
 - **A harness for real engineering work.** Learn how to package context, define boundaries, create review lenses, and set up feedback loops that improve output over time.
 - **Better flow, not just more output.** Use AI where it reduces friction across the delivery system, instead of creating code your team cannot safely review or ship.
 - **Reusable team practices.** Leave with patterns your team can share: context packs, specs, review prompts, safety rules, and metrics for deciding whether AI is actually helping.
 
 ## Format
 
-The workshop is built around your real work, not toy examples. We can run it as a half-day briefing, a three-session team workshop, a one-week intensive pilot, or a custom engagement around an active engineering problem.
+The public course uses realistic examples that let everyone practice the same techniques together. You will learn the patterns, tradeoffs, and habits that make AI useful in production engineering work.
+
+If you want to apply this directly to your own codebase, we can come in-house and run a private workshop around your real problems, workflows, and constraints.
 
 ## About us
 
@@ -32,6 +34,3 @@ Matt Wynne co-founded Cucumber and co-authored The Cucumber Book. Aldric Giacomo
 
 We are comfortable with skeptical senior teams, complex systems, and the gap between AI hype and production reality.
 
-## Want to explore a workshop?
-
-Bring one real workflow, such as a migration, testing problem, cleanup task, risky change, or recurring edge case. We will help you identify what would have to change for AI to produce useful, reviewable work.
