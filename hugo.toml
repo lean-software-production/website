@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+locale = 'en-gb'
+title = 'AI Engineering Training'
+disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', 'robotsTXT']
+
+[params]
+  description = 'Practical AI engineering training for senior teams working in real production systems.'
