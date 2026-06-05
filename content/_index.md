@@ -1,50 +1,37 @@
 ---
-title: "AI Engineering Training for Teams Where Mistakes Matter"
+title: "You See the Potential. Now Make It Deliver."
 ---
 
-A practical training course for senior engineering teams who want AI to help with legacy code, testing drag, messy data, and delivery risk—without compromising quality, security, or customer trust.
+For engineering leaders tired of correcting plausible AI output, defending code quality, and overwhelmed by the volume of code to review.
 
-[Book a Course Design Call](mailto:hello@example.com)
+This workshop helps your team turn AI from an impressive demo into a useful part of your engineering system.
 
-## AI is easy on easy work. Your real work is harder.
+## The pain
 
-Greenfield demos are not the problem. Your team has legacy context, brittle tests, enterprise data risk, old and new architecture living together, and review burden from AI output that is almost—but not quite—right.
+- **AI works on easy tasks, then falls apart on real work.** Your codebase has domain rules, customer exceptions, brittle tests, messy data, and architecture in motion.
+- **The promised speedup becomes review burden.** AI produces plausible output, but senior engineers still have to find the gaps, correct the assumptions, and protect quality.
+- **More code creates more inventory.** If AI only helps you get to “dev complete” faster, it can flood a delivery system that still lacks automated tests, review capacity, or a clear path to production.
+- **The team lacks a shared way of working.** Useful AI practices stay trapped in individual engineers' heads, so results vary from person to person and week to week.
 
-## Build the harness, not just the prompt.
+## What you gain
 
-The course teaches teams to create better specs, reusable context packs, review lenses, safe sandboxes, data-handling rules, team workflows, and outcome metrics.
+- **A practical model for how AI actually works.** Move past magic-beans thinking and understand what these tools are good at, where they are blind, and how to use them deliberately.
+- **A harness for real engineering work.** Learn how to package context, define boundaries, create review lenses, and set up feedback loops that improve output over time.
+- **Better flow, not just more output.** Use AI where it reduces friction across the delivery system, instead of creating code your team cannot safely review or ship.
+- **Reusable team practices.** Leave with patterns your team can share: context packs, specs, review prompts, safety rules, and metrics for deciding whether AI is actually helping.
 
-## What participants learn
+## Format
 
-- How to decide where AI should and should not be used.
-- How to write specs that produce better code and better reviews.
-- How to capture senior engineering judgment in reusable Markdown context.
-- How to use AI for legacy edge-case discovery.
-- How to reduce test migration and cleanup pain.
-- How to avoid long, low-value correction loops.
-- How to measure value without relying on PR counts.
+The workshop is built around your real work, not toy examples. We can run it as a half-day briefing, a three-session team workshop, a one-week intensive pilot, or a custom engagement around an active engineering problem.
 
-## Course formats
+## About us
 
-- Half-day executive and technical briefing.
-- Three-session team workshop.
-- One-week intensive pilot.
-- Custom course built around an active engineering problem.
+We are practitioners, not AI influencers. Our team has decades of experience in production software, BDD, testing, DevOps, SRE, release engineering, modernization, coaching, and agentic software delivery.
 
-The strongest version uses your team’s real work, not toy examples.
+Matt Wynne co-founded Cucumber and co-authored The Cucumber Book. Aldric Giacomoni has been building software through agents since 2023 and authored Stone, an agentic harness. David Laing brings deep DevOps, SRE, and release engineering experience from Pivotal, VMware, Shopify, and Mechanical Orchard. Zach Marcin has designed and taught agentic training for high-quality modernization work. Jeremy Lightsmith has 25 years in tech and spent three years at Mechanical Orchard helping teams use LLMs to modernize mainframes for Fortune 500 clients.
 
-## Outcomes
+We are comfortable with skeptical senior teams, complex systems, and the gap between AI hype and production reality.
 
-By the end, your team should have a shared AI-assisted engineering workflow, reusable context packs, practical safety rules, tailored review prompts, a pilot use case tested against real work, and metrics for deciding whether to expand adoption.
+## Want to explore a workshop?
 
-## Who it is for
-
-Senior engineers, tech leads, CTOs, and teams modernizing legacy systems with real production and customer risk.
-
-## Who it is not for
-
-Teams looking for basic ChatGPT training, generic prompt libraries, or a way to replace engineering judgment.
-
-## Want to see whether AI can help with your hard problems?
-
-Book a short course design call. We will identify one real engineering problem, assess whether AI is likely to help, and decide what training format fits your team.
+Bring one real workflow, such as a migration, testing problem, cleanup task, risky change, or recurring edge case. We will help you identify what would have to change for AI to produce useful, reviewable work.
