@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+usage() {
+  cat <<'USAGE'
+Usage: dev <command>
+
+Commands:
+  up      Start the Hugo development server
+  build   Build the static site into public/
+USAGE
+}
+
+command="${1:-}"
+
+case "$command" in
+  up)
+    exec hugo server --bind 127.0.0.1 --disableFastRender
+    ;;
+  build)
+    exec hugo --minify
+    ;;
+  -h|--help|help|"")
+    usage
+    ;;
+  *)
+    echo "Unknown command: $command" >&2
+    usage >&2
+    exit 1
+    ;;
+esac

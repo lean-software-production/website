@@ -6,12 +6,13 @@
     hugo
   ];
 
-  scripts.serve.exec = "hugo server --bind 127.0.0.1 --disableFastRender";
-  scripts.build.exec = "hugo --minify";
+  scripts.serve.exec = "dev up";
+  scripts.build.exec = "dev build";
 
   enterShell = ''
+    export PATH="$DEVENV_ROOT/bin:$PATH"
     echo "Hugo $(hugo version | awk '{print $2}') is available."
-    echo "Run 'serve' to start the local development server."
+    echo "Run 'dev up' to start the local development server."
   '';
 
   enterTest = ''

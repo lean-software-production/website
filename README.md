@@ -1,14 +1,40 @@
-# Website Design Brief: AI Engineering Training for Senior Teams
+# AI Engineering Training Website
 
 ## Development
 
-This site uses Hugo and devenv.
+This site uses Hugo, managed by devenv.
+
+### One-time setup
+
+```sh
+direnv allow
+```
+
+If you do not use direnv, enter the shell manually:
 
 ```sh
 devenv shell
-serve   # local development server
-build   # production build into public/
 ```
+
+The devenv shell adds `./bin` to `PATH`.
+
+### Run the site locally
+
+```sh
+dev up
+```
+
+This starts the Hugo development server at <http://127.0.0.1:1313/>.
+
+### Build the site
+
+```sh
+dev build
+```
+
+The static site is generated in `public/`.
+
+## Website Design Brief: AI Engineering Training for Senior Teams
 
 
 ## Purpose
