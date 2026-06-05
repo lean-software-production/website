@@ -31,7 +31,7 @@ If you want to apply this directly to your own codebase, we can come in-house an
 We are practitioners, not AI influencers. Our team has decades of experience in production software, BDD, testing, DevOps, SRE, release engineering, modernization, coaching, and agentic software delivery.
 
 - **Matt Wynne** co-founded Cucumber and co-authored The Cucumber Book.
-- **Aldric Giacomoni** has been building software through agents since 2023 and authored Stone, an agentic harness.
+- **Aldric Giacomoni** has been building software through agents since 2023 and authored Stone, an agentic harness framework.
 - **David Laing** brings deep DevOps, SRE, and release engineering experience from Pivotal, VMware, Shopify, and Mechanical Orchard.
 - **Zach Marcin** has designed and taught agentic training for high-quality modernization work.
 - **Jeremy Lightsmith** has 25 years in tech and spent three years at Mechanical Orchard helping teams use LLMs to modernize mainframes for Fortune 500 clients.
