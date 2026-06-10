@@ -1,5 +1,14 @@
 # AI Engineering Training Website
 
+> **⚠️ This repository has moved and is archived.**
+>
+> The Lean Software Production landing page now lives in the
+> [`workshops`](https://github.com/lean-software-production/workshops) repo
+> (under `website/`) and is hosted on Cloudflare Pages:
+> <https://lean-software-production-website.pages.dev/>
+>
+> This repo is kept read-only for history. Make all changes in `workshops`.
+
 ## Development
 
 This site uses Hugo, managed by devenv.
